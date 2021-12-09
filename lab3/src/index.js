@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM, { render } from 'react-dom';
 import "./index.css";
-
+import car from "./cp,po"
  const numbers = [10,20,30];
  const text = (
 
